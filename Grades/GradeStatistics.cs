@@ -8,15 +8,8 @@ namespace Grades
 {
     public class GradeStatistics
     {
-        //Constructor to store values for Hightest and Lowest Grades to be used to compare values against
-        public GradeStatistics()
-        {
-            HighestGrade = 0;
-            LowestGrade = float.MaxValue;
-        }
-
-        public float AverageGrade;
-        public float HighestGrade;
-        public float LowestGrade;
+        public float AverageGrade { get; set; }
+        public float HighestGrade { get; set; }
+        public float LowestGrade { get; set; }
     }
 }

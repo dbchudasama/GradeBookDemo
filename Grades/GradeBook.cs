@@ -50,6 +50,8 @@ namespace Grades
             grades.Add(grade);
         }
 
+        public string Name;
+
         //Defining and initialising field. By making the List of grades private allows for Encapsulation.
         private List<float> grades; 
     }

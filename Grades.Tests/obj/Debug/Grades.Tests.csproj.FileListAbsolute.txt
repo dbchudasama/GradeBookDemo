@@ -13,3 +13,18 @@ C:\Users\gujra\OneDrive\Documents\Visual Studio 2015\Projects\Grades\Grades.Test
 C:\Users\gujra\OneDrive\Documents\Visual Studio 2015\Projects\Grades\Grades.Tests\bin\Debug\Grades.exe
 C:\Users\gujra\OneDrive\Documents\Visual Studio 2015\Projects\Grades\Grades.Tests\bin\Debug\Grades.pdb
 C:\Users\gujra\OneDrive\Documents\Visual Studio 2015\Projects\Grades\Grades.Tests\bin\Debug\Grades.exe.config
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades.Tests\obj\Debug\Grades.Tests.pdb
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades.Tests\bin\Debug\Grades.exe
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades.Tests\bin\Debug\Grades.pdb
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades.Tests\bin\Debug\Grades.exe.config
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml

@@ -11,7 +11,7 @@ namespace Grades
         static void Main(string[] args)
         {
             //Creating a new instance of the class
-            GradeBook book = new GradeBook();
+            Grades book = new Grades();
 
             //Adding score 91
             book.AddGrade(91);
@@ -21,7 +21,7 @@ namespace Grades
             book.AddGrade(75);
 
             //Storing the ComputeStatistics reference in the stats variable.
-            GradeStatistics stats = book.ComputeStatistics();
+            GradeStatistics stats = GradeState.Calculate(book.GetGrades());
 
             Console.WriteLine("Highest Grade is:" + stats.HighestGrade);
             Console.WriteLine("Lowest Grade is:" + stats.LowestGrade);

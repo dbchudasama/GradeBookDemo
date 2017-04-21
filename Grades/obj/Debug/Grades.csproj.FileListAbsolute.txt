@@ -4,3 +4,9 @@ c:\users\gujra\onedrive\documents\visual studio 2015\Projects\Grades\Grades\bin\
 c:\users\gujra\onedrive\documents\visual studio 2015\Projects\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
 c:\users\gujra\onedrive\documents\visual studio 2015\Projects\Grades\Grades\obj\Debug\Grades.exe
 c:\users\gujra\onedrive\documents\visual studio 2015\Projects\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades\bin\Debug\Grades.exe.config
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades\bin\Debug\Grades.exe
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades\bin\Debug\Grades.pdb
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades\obj\Debug\Grades.exe
+C:\Users\oddki\Work\elastacloud\src\GradeBookDemo\Grades\obj\Debug\Grades.pdb
